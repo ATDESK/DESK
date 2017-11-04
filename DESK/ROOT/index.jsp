@@ -11,7 +11,7 @@
 <title>ATDESK</title>
 </head>
 <body>
-<center>Welcome to ATDESK!!!</center>
+<center>Welcome to ATDESK!!</center>
 </body>
 </html>
 </jsp:root>
